@@ -1,0 +1,1 @@
+# Simple project to showcase Kafka in .net
